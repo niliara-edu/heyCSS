@@ -149,17 +149,6 @@ border: none;
 border-collapse: collapse;
 }
 
-.orb {
-    position:relative;
-    top:30px;
-    left:50px;
-    width:1px;
-    height:1px;
-    opacity:.5;
-
-    box-shadow:
-      0px 0px 25px 15px #ff8800;
-}
 </style>
 
 <iframe width="0" height="0" src="https://www.youtube.com/embed/tl0y7t1QC78?si=f4DChKicLSAtgSvF//?&;amp;;autoplay=1&;loop=1&;controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" loading="lazy">
